@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wRMlgD/BxUkqbZw0Wp0d0IxBXdDQmXcG1571ukS3wzg=",
+  "Source": "WebAPI_RESTFull",
+  "BasePath": "_content/WebAPI_RESTFull",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
